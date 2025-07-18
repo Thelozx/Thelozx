@@ -8,13 +8,17 @@
 
 ## 🚀 Sobre Mim
 
-Sou **desenvolvedor web** com foco em criar experiências digitais modernas, funcionais e inteligentes. Atuo no desenvolvimento de aplicações completas, com domínio em Front-end (HTML, CSS, JavaScript, React) e experiência em Back-end (Node.js, Python). Também trabalho com integração de APIs e soluções baseadas em Inteligência Artificial, sempre buscando entregar inovação e qualidade em cada projeto.
+Sou **estudante de Análise e Desenvolvimento de Sistemas** na **UNIFACS** e desenvolvedor web apaixonado por criar experiências digitais modernas e funcionais. Atuei no desenvolvimento de aplicações web, com foco principal em Front-end e suporte em tarefas de Back-end. Minhas principais atividades incluíram:
 
-### O que me motiva:
-- Criar soluções web dinâmicas e funcionais
-- Aprender constantemente e me manter atualizado
-- Colaborar em projetos desafiadores
-- Crescer como profissional na área de desenvolvimento
+- Criação de sites responsivos e interfaces interativas, garantindo usabilidade e boa experiência do usuário
+- Integração de APIs externas e ferramentas de Inteligência Artificial para otimizar funcionalidades e enriquecer a experiência digital
+- Implementação de layouts modernos utilizando HTML, CSS, JavaScript e frameworks populares
+- Manutenção de sistemas e correção de bugs, sempre buscando soluções eficientes e escaláveis
+
+**Projetos Destacados:**
+- Desenvolvi um site de Wikipedia de um jogo usando React, trabalhando no front-end da aplicação
+
+Essa experiência me proporcionou um sólido entendimento sobre o ciclo de desenvolvimento de software, melhores práticas de programação e a importância da integração entre Front-end e Back-end para um produto final robusto e funcional.
 
 ---
 
