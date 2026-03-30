@@ -48,12 +48,21 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFACS, focado em cr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thelozx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thelozx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thelozx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9&cache_seconds=86400" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thelozx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thelozx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&cache_seconds=86400" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thelozx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thelozx&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thelozx&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE&cache_seconds=86400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thelozx&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE&cache_seconds=86400" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 ---
@@ -66,3 +75,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFACS, focado em cr
 🌱 Estudando         →  Novas frameworks e bibliotecas
 🚀 Buscando          →  Projetos open source e colaborações
 💬 Me pergunte sobre →  React, Python, APIs, desenvolvimento web
+```
