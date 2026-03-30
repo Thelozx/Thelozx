@@ -48,8 +48,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFACS, focado em cr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thelozx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thelozx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats-zeta-sand-20.vercel.app/api?username=Thelozx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats-zeta-sand-20.vercel.app/api/top-langs/?username=Thelozx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
