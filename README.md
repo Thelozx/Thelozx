@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFACS, focado em criar aplicações web modernas e funcionais.
+Estudante de **Desenvolvimento de Sistemas** do Senai, focado em criar aplicações web modernas e funcionais.
 
 - 🔨 Foco em **Front-end** com React e JavaScript, com suporte em Back-end
 - 🔗 Integração de **APIs externas** e ferramentas de **IA**
